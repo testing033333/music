@@ -1,4 +1,4 @@
-# GUIDE FOR ANYONE HAVING AN UNSUPPORTED FILE FORMAT IN THEIR DANCES FOLDER
+# GUIDE FOR ANYONE HAVING AN UNSUPPORTED FILE FORMAT IN THEIR DANCES FOLDER (idk about mobile yet)
 
 1. Pick any song you wanted and download it.
 2. Head over to File Explorer, which you know where Downloads are.
