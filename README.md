@@ -14,3 +14,5 @@
 # NOTE!
 There may be cases that you could notice an another Dances folder where you can see theres some songs that are in 1 KB.
 If you see one, delete it.
+
+Also, I may update at anytime in replacing music, so if you have noticed some of your emotes are missing, look for the new ones and follow the entire guide or just follow Step 7.
